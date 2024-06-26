@@ -1,23 +1,27 @@
+html {
+  font-family: 'Inter';
+}
+body {
+  max-width: 1000px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
 .border {
   border-style: solid;
   border-width: 1px;
   margin: 10px;
+  border-radius: 5px;
 }
 
-#sampleui {
-  max-width: 450px;
-  margin-left: 5%;
-  height: 100%;
-}
+#sampleui, #sampleposting, #userstories {
+  width: 100%;
+  max-width: 500px;
 
-#sampleposting {
-  max-width: 450px;
-  text-align: center;
-  margin-left: 5%;
-}
-
-#userstories {
-  margin-left: 5%;
+  margin: auto;
+  /* height: 100%; */
 }
 
 form {
@@ -31,4 +35,7 @@ label {
 
 input {
   margin-bottom: 5px;
+}
+code {
+  font-family: 'JetBrains Mono';
 }

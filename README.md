@@ -1,3 +1,3 @@
 # Personal Library
 
-This is the boilerplate for the Personal Library project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/personal-library
+My implementation of the Personal Libary project for freeCodeCamp's Quality Assurance Course. The original boilerplate repository can be found at [freeCodeCamp's GitHub Page](https://github.com/freeCodeCamp/boilerplate-project-library.git).
